@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamdAlmokhallati
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and want to be a full stack developer
 - 🌱 I’m currently learning Programming basics
 - 📫 How to reach me mohamad.almokhallati@gmail.com
 - ⚡ Fun fact: 1 + 1 = 2
