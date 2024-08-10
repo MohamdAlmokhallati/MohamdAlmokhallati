@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @MohamdAlmokhallati
-- 👀 I’m interested in web development and want to be a full stack developer
-- 🌱 I’m currently learning Programming basics
-- 📫 How to reach me mohamad.almokhallati@gmail.com
-- ⚡ Fun fact: 1 + 1 = 2
-- 🦔 I started learning the basics of programming in October 2023
+👋 **Willkommen auf meinem GitHub-Profil!**
 
-<!---
-MohamdAlmokhallati/MohamdAlmokhallati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ich bin ein engagierter Informatikstudent mit einer großen Leidenschaft für die Full Stack Webentwicklung. Mein Ziel ist es, meine Fähigkeiten ständig weiterzuentwickeln, um in der Zukunft als Project Manager in der IT-Branche tätig zu sein.
+
+Derzeit besuche ich die Fachoberschule und bereite mich auf mein Fachabitur im Jahr 2025 vor. Im Anschluss daran plane ich, ein duales Studium zu beginnen, um das Gelernte direkt in der Praxis anzuwenden.
+
+Auf meinem GitHub findest du Projekte, an denen ich arbeite, während ich mein Wissen in modernen Technologien und Techniken kontinuierlich erweitere.
